@@ -11,7 +11,7 @@ void div(double, double);
 
 int main(void)
 {
-	printf("Welcome! This is Simple Calculator with C by Suleyman Kara.\n");
+	printf("Welcome! This is Simple Calculator written in C by Suleyman Kara.\n");
 	if (greetings() == 0)
 	{
 		printf("Goodbye!\n");
